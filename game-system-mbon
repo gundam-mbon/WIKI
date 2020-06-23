@@ -1,1 +1,15 @@
+Système de jeu – MBON
+                                                
+2v2 3D Arena Fighter
 
+MBON est un jeu de combat 3D en arène qui se joue en 2 contre 2.
+Les joueurs sélectionnent une unité parmis les plus de 180 présentes dans le roster et s’affrontent dans une arène contenant des obstacles destructibles.
+
+Système de coût des MS
+Le jeu possède une grande palette de Mobile Suits (les robots) plus ou moins forts.
+Le système de coût permet d'assurer un équilibre dans l’affrontement entre des MS de force inégales.
+Un coût est assigné à chaque MS : 3000, 2500, 2000 ou 1500. Plus le coût est élevé, plus le MS est “puissant”. Un coût élevé se résume en dégâts plus élevés, de meilleurs perfs et un meilleur boost. 
+Chaque équipe commence la partie avec une jauge de 6000 points. Une fois la jauge d’une des équipe à zéro, celle-ci perd le match. Lorsqu’un MS est détruit, la jauge du MS de l’équipe à qui il appartient décrémente par rapport à son coût (exemple : Je possède un MS à 2500pts et je meurs en début de partie, je reviens sur le terrain l’instant d’après mais mon équipe a perdu 2500pts. 6000-2500=3500, il reste donc 3500pts à mon équipe).
+Donc si votre équipe est munie de 2 MS à 1500, vous pouvez alors mourir 6x avant de perdre la partie (6x1500=6000), mais si votre équipe possède deux MS à un coût de 3000pts, alors vous perdrez la partie si vous mourrez 2x (3000x2=6000).
+Le “surcoût” arrive lorsqu'un MS est détruit alors que les points restants de l’équipe ont une valeur inferieur au coût du MS détruit. Mar exemple, si votre équipier est équipé d’un MS à 2500 mais que celui-ci est détruit, votre équipe se retrouve avec 3500pts (6000-2500). Si vous utilisez un MS coutant 3000 et que celui-ci est détruit en deuxième, vous re-apparaitrez alors et il restera 500pts à votre équipe (3500-3000=500). Vous serez cependant en situation de “surcoût” et donc vous re-apparaitrez avec 500/3000 (un sixième) de vos points de vie.
+Pour faire simple, plus votre MS est coûteux, plus vous aurez d’options d’attaque et de défense mais votre mort sera plus pénalisante pour votre équipe. Il est donc indispensable de choisir le MS que vous voulez utiliser avec votre équipier en tenant compte de cet équilibre.
