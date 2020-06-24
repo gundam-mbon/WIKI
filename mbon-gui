@@ -1,1 +1,36 @@
 
+L’interface de Gundam EXVS MBON:
+
+Alors que Gundam EXVS MBON est plutôt simple à prendre en main, quelques explications sont tout de même nécessaires pour comprendre son interface qui n’est pas avare en informations. 
+
+1. Jauge de coût des équipes
+La jauge de côut des équipes représente le nombre de points restants de chaque équipe. Chaque fois qu’un MS est détruit, le total de l’équipe est soustrait par  le coût de ce dernier. L’équipe qui se retrouve la jauge à zéro perd la partie. La jauge du haut représente le coût de l’équipe du joueur et la jauge du bas représente le coût de l’équipe adverse.
+2. Le marqueur d’alerte.
+Il s’agit d’un indicateur pouvant d’afficher sur les quatres coins de l’écran. La couleur jaune indique qu’un ennemi vous cible. La couleur rouge indique qu’un ennemi vous cible ET vous attaque (il peut s’agir d’un projectile ou d’un coups au corps à corps). Le marqueur se positionne selon la direction où se trouve l’ennemi. Lorsque deux ennemis vous ciblent, vous aurez deux marqueurs sur votre écran.
+3. Timer
+Il s’agit de l’indicateur du temps limite avant la fin du match. Si aucune des deux équipe n’a gagné avant la fin du timer, alors elles perdent toutes les deux.
+4. MiniMap
+Elle affiche la position de vos adversaires et de votre allié.
+5.Marqueur de ciblage
+
+Indique les possibilités d’attaques contre l’ennemi
+Quand la cible est rouge, cela veut dire qu’il est possible de lui tirer dessus et que ce tir sera autoguidé.
+Quand la cible est rouge mais avec des motifs en plus à l’interieur, cela signifie que le MS adverse est à portée suffisante pour une attaque au corps à corps.
+Quand la cible est jaune, cela veut dire que l’ennemi est en statut d’invulnérabilité. Il ne subira donc aucun dégât tant qu’il est dans ce statut. Cela arrive lorsqu’il subit une mise au sol pour lui laisser l’opportunité de se relever.
+Une cible verte signifie que le MS ennemi n’est pas assez proche pour que les tirs soient auto-guidés. Les tirs iront tout simplement tout droit.
+Quand un arc de cercle s’affiche à côté de votre cible, cela signifie que votre coéquipier cible le même adversaire que vous.
+6. Munition
+Cela indique le nombre de munitions restantes pour chaque attaque. Le nombre de munitions remontent avec le temps selon l’attaque.
+7. Jauge de boost
+Votre jauge de boost. Le boost est nécessaire pour effectuer certaines actions dans le jeu. Consumer entièrement votre jauge de boost vous mettra dans un état de “surchauffe” et vous forcera à atterrir. Une fois les pieds au sol et après un léger délai, votre jauge sera de nouveau remplie instantanément. Ce délai sera plus long si vous atterrissez en état de “surchauffe”.
+8. Type de Burst
+Le type de Burst que vous avez choisi: Fighting, Extend, ou Shooting
+9. Jauge de Burst
+Votre jauge de Burst. Peut être activée une fois remplie à 50%. Plus elle est remplie, plus longtemps vous resterez en état de burst.
+10. Ex Burst Type
+Shows which Burst Type you currently have equipped
+11. Points de vie de votre MS
+Vos points de vie. S’ils tombent à 0, votre MS sera alors détruit et son coût sera alors déduit du coût total de l’équipe.
+12. Points de vie de votre équipier / Commandes de l’IA
+Les points de vie de votre équipier. S’ils tombent à 0, le MS de votre équipier sera alors détruit et son coût sera alors déduit du coût total de l’équipe. 
+Votre équipier est une IA alors une liste de commandes sera alors affiché.
