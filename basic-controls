@@ -1,1 +1,111 @@
 
+While Gundam Extreme Versus MBON is a very easy game to pick up and play, the controls may be unfamiliar to first timers playing this genre of games. Worry not, this guide will show you the very basics to get you started.
+
+Pad PS4 
+[image]
+
+Dans notre wiki, nous utiliserons le système d'anotations dédiés aux sticks arcade.
+
+A – Shoot (Square)
+B – Melee (Triangle)
+C – Boost (X)
+
+Ce qui peut être traduit par
+
+A + B = Shoot + Melee = Sub (L1)
+A + C = Shoot + Boost = Special Shoot (L2)
+B + C = Melee + Boost = Special Melee (R2)
+A + B + C = Shoot + Melee + Boost = Burst/Burst attack (R3)
+
+Fight stick (default)
+[image]
+
+Basic Controls
+
+Shoot (A/Square)
+
+Fires a projectile(s) from the suit’s Beam Rifle, Machine Gun, Beam Launcher etc. that typically homes in (or Tracks) towards the target. Shots fired will track only while the Lock-On Marker is red and will not track at all if the Lock-On Marker is green. Certain weapons like machine guns require the Shoot button to be held to fire more than one projectile while others (like most Beam Rifles) require only a single input.
+https://www.youtube.com/embed/7kurPP0F9Ho?
+
+Melee (B/Triangle)
+
+Lunges towards the target and executes a melee move. Damage from melee moves are generally higher than Ranged attacks but are of course much riskier to pull off due to the distance one has to be in to inflict melee damage. A melee combo can be interrupted by most attacks, including those from your partner so do take care of you surroundings before going in for a melee combo
+https://www.youtube.com/embed/1R6ogooWCSM?
+
+Sub Weapon (AB/L1)
+
+Fires a shot from the suit’s sub-weapon. In general, the sub-weapon has lower ammo reserves compared to the main ranged weapons and can  usually be cancelled from the main Ranged weapon.
+https://www.youtube.com/embed/uMZIBiPe21M?
+
+Special Shooting (AC/L2)
+
+Similar to the Sub-weapon, the Special Shooting weapon also fires off an alternative weapon from the suits loadout or at times activate a special form depending on the player’s mobile suit. In some cases, the Special Shooting input can also be held to produce a stronger version of the weapon.
+https://www.youtube.com/embed/dvLg3cxtNfE?
+
+Special Melee (BC/R2)
+
+Just like it’s description, the Special Melee input usually results in a alternative melee move that may have unique properties (resistance to ranged weapon, Superarmor etc.). Depending on the suit, it can also activate an alternate form and sometimes can be cancelled immediately from a melee input.
+https://www.youtube.com/embed/uoiJWkLXriM?
+
+Charged Shot/Melee (csA/csB)
+
+Applies only to suits with a Charge Shot/Melee. Hold either Shoot or Melee and release when the Charge Bar is filled up to execute a special move with varying effects. Typically, most moves can be cancelled into a Charged Shot the moment it is released and players must take note that any move that is tied to the Charge button cannot be executed while the button is being held.
+https://www.youtube.com/embed/BT2TxLY37Ws?
+
+Numpad Notation
+
+Numpad notation is a system for writing the directional commands used in fighting games in an easy-to-read, easy-to-understand way, even if it may not seem like it at first. The core mechanic of numpad notation is also how it gets its name: numbers are used in place of directions, according to their position on a keyboard’s numpad.
+
+So for example: 2 will represent ↓ and 6 will represent →. 6B will represent Right + Melee.
+
+If no direction or the number 5 is listed on a move, then it is assumed to have no directional input.
+
+Numpad notation is used because it easily conveys what would otherwise be a complex sequence of buttons or moves. For example, neutral melee, then side step and front melee again can be written as 5b ~> 44/66 ~> 8b
+
+We use * (asterisk) to represent “any directional input”.
+
+For those coming from the fighting game background, do note as this is a 3d game, the direction will always stay true from the player’s view point, and no need to mind whether your unit is facing front or back (as compared to the 2d plane). Even if your unit is facing backwards, 2 will still be down on the directional pad.
+
+Combo notations
+
+In this wiki, we will be using these notations when talking about a series of moves that you can execute in succession. (~) refers to direct cancels, while (>>) refers to boost dash cancelling, and (>) refers to a sidestep.
+
+Writing Combos
+
+Combos are an important part of any fighting game, and so being able to read combos is also important. Based on the way attacks are written, you can determine when and how to perform the next attack in the combo.
+
+    Step Cancels
+    Step cancels is the performing of a Step during a melee. Step cancels are separated by right angle brackets (>).
+
+     
+        Example: 5BB > 66 > 5BB = Neutral Melee for 2 hits, side step to cancel the animation of the third hit, and melee for two more hits.
+    Boost Dash Cancel
+    Boost Dash Cancels are performed by tapping Boost twice in quick succession. Boost Dash Cancels are indicated by two right angle brackets (>>)
+
+     
+        Example: A >> A >> A = Main, boost dash, main, boost dash, main
+    Cancel route and Melee derivatives
+    Occasionally you’ll need to press one button immediately after another to perform special attacks. These are commonly called Cancel Routes, and are written using a tilde (~) between the attack buttons.
+
+     
+        Example: 5BB~8B = Neutral melee for 2 hits and then immediately input front melee.
+        Example: A~AB = Press A then AB immediately.
+    Cancel routes
+    You will see a compilation of  Cancel routes being written in the Move Summary. The colon “:” here serves the same purpose as ~, but colons are only used in the Move Summary section due to having multiple commas originating from the same moves (like how A can cancel into AB, AC etc). Commas between moves indicates ‘either or’.
+
+     
+        Example: A: AB, AC, BC, 2B = A cancel into AB, AC, BC or 2B
+        Example: 5B, 4B, CC8B: BC = 4B or 4B or CC8B can cancel into BC
+    Melee derivative routes
+    You will see Melee derivative routes being written like this 5B(B) ~BC in the Melee Set section. 5B(B) ~BC means during the 1st and 2nd hit of 5B, you can cancel into BC. Moves in brackets indicate it’s an optional choice, but if it’s not in brackets, it means it has to be canceled from that move.
+
+     
+        Example: 5BBB~ BC = You can cancel into BC only from the 3rd hit of 5B
+        Example: 5B(BBB) ~ BC = You can cancel into BC anytime during the 1st to 4th press of 5B
+        Example: 5BB, 4/6B~ BC = You can cancel into BC only from the 2nd hit of 5B, or 1st hit of 4/6B
+
+Directional input
+
+In addition to using numpad notation , we use * to represent “any directional input”.
+
+    *AB represents pressing AB with any directional input, except leaving it at neutral.
