@@ -28,7 +28,7 @@ Le type de Burst que vous avez choisi: Fighting, Extend, ou Shooting
 9. Jauge de Burst
 Votre jauge de Burst. Peut être activée une fois remplie à 50%. Plus elle est remplie, plus longtemps vous resterez en état de burst.
 10. Ex Burst Type
-Shows which Burst Type you currently have equipped
+Affiche le type d'EX burst que vous avez choisi avant de commence la partie.
 11. Points de vie de votre MS
 Vos points de vie. S’ils tombent à 0, votre MS sera alors détruit et son coût sera alors déduit du coût total de l’équipe.
 12. Points de vie de votre équipier / Commandes de l’IA
